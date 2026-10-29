@@ -38,7 +38,7 @@ Ariyan Patel 	Roles- Point Of Contact, YES CO-president.
 Google Search	AI Overview Search and navigation service through which the behavior was observed. Its involvement does not establish that Google caused the issue.
 1connectconsulting.com	Unrelated destination observed during the redirect flow. Its relationship to the incident, if any, is unconfirmed.
 
-Additional communications: Nicole McDonaled, Senior Executive Assistant to Dean Charles at Yale School of Management and Dean Kerwin K. Charles were approached and notified in subsequent Yale-related outreach. 
+Additional communications: Nicole McDonald, Senior Executive Assistant to Dean Charles at Yale School of Management and Dean Kerwin K. Charles were approached and notified in subsequent Yale-related outreach. 
 
 5. Timeline
 Date	Event
