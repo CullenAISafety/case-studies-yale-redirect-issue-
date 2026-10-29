@@ -1,0 +1,124 @@
+# Lessons Learned: Yale Redirect Investigation
+
+**Project:** Yale Entrepreneurial Society (YES) Redirect Investigation  
+**Investigator:** Cullen E. Mathews  
+**Focus:** Web Security, Responsible Reporting, Evidence Management, and Stakeholder Coordination
+
+## 1. Executive Summary
+
+The Yale redirect investigation provided an opportunity to practice independent security observation, repeatability checks, technical documentation, organizational communication, and responsible reporting.
+
+The behavior involved unexpected navigation encountered while accessing the website of the Yale Entrepreneurial Society (YES), a student-run organization at Yale University. Yale School of Management was identified in the reporting process as an institutional contact context.
+
+The central lesson is that an unexpected technical behavior should be documented accurately without overstating its cause, severity, or implications.
+
+## 2. Technical Lessons
+
+### Lesson 1: Verify the Destination, Not Just the Displayed Link
+
+A search result can appear to identify an expected website while the resulting navigation leads somewhere unexpected.
+
+**Application:** Preserve the displayed destination, original URL, and final destination. Record the intermediate URLs where safely accessible.
+
+### Lesson 2: Repeated Observations Improve Documentation
+
+Repeating an observation can help determine whether a behavior is reproducible or transient.
+
+**Application:** Record timestamps, search queries, browser details, and outcomes for each observation. Reproducibility strengthens documentation but does not independently identify the root cause.
+
+### Lesson 3: Separate Observations from Hypotheses
+
+Unexpected redirects can have multiple explanations, including indexing differences, intermediary redirects, website configuration, third-party integrations, or local browser behavior.
+
+**Application:** Label possible explanations as hypotheses and identify what evidence would be needed to verify them.
+
+### Lesson 4: Preserve Evidence Before Drawing Conclusions
+
+Original screenshots, URLs, timestamps, HTTP headers, and authorized system logs can help establish what happened.
+
+**Application:** Preserve original evidence, record collection methods, and avoid modifying the only copy of a file.
+
+### Lesson 5: Treat Resolution and Root Cause as Separate Questions
+
+A redirect may stop occurring even when the underlying cause remains unknown.
+
+**Application:** Document the reported resolution date separately from technical remediation and root-cause confirmation.
+
+## 3. Organizational and Communication Lessons
+
+### Lesson 6: Distinguish the Student Organization from Its Institutional Context
+
+YES is a student-run organization at Yale University. Yale School of Management is identified in this case study as an institutional contact context in the reporting process.
+
+**Application:** Identify the organization associated with the affected website, the institutional contacts involved in reporting, and the technical personnel who may investigate the issue. Do not imply that an institution owns, operates, or maintains a particular website without evidence.
+
+### Lesson 7: Document Each Participant's Actual Role
+
+The reporting process involved YES representatives, institutional contacts, and technical personnel identified in the communications.
+
+**Application:** Distinguish the person who observed the issue, the people who received the report, the contacts who coordinated communication, and the personnel who performed any technical remediation. Verify names, titles, and responsibilities against original correspondence.
+
+### Lesson 8: Communicate Findings Professionally
+
+Security reports are most useful when they explain what happened, how it was observed, and what remains uncertain.
+
+**Application:** Use neutral language such as “unexpected redirect,” “reported resolution,” and “root cause unconfirmed.” Avoid accusations or unsupported claims of malicious activity.
+
+## 4. Responsible Reporting and Ethics
+
+### Lesson 9: Stay Within Authorized Testing Boundaries
+
+Observing a public redirect does not authorize unrestricted testing of the destination, website infrastructure, or unrelated systems.
+
+**Application:** Limit testing to what is necessary to document the behavior. Obtain authorization before conducting intrusive or deeper technical investigations.
+
+### Lesson 10: Protect Private Information
+
+Emails, personal contact details, screenshots, and internal communications may contain information that should not be published publicly.
+
+**Application:** Redact personal email addresses, credentials, private correspondence, and irrelevant identifying information. Obtain permission before publishing nonpublic communications.
+
+### Lesson 11: Avoid Unsupported Claims of Compromise
+
+An unexpected redirect does not automatically establish phishing, malware delivery, data theft, unauthorized access, or a compromised website.
+
+**Application:** State the observed facts and identify unconfirmed explanations explicitly. Escalate conclusions only when supporting evidence becomes available.
+
+## 5. Improvements for Future Investigations
+
+For future web-security observations, I would use the following checklist:
+
+- [ ] Record the exact date, time, and time zone.
+- [ ] Preserve the original search query and result.
+- [ ] Capture the displayed destination and final destination.
+- [ ] Record the redirect chain where safely accessible.
+- [ ] Document browser, operating system, and test conditions.
+- [ ] Separate firsthand observations from statements made by others.
+- [ ] Maintain a dated communication and action log.
+- [ ] Identify evidence needed to confirm or reject each hypothesis.
+- [ ] Record reported resolution separately from verified remediation.
+- [ ] Verify participants' names, roles, and organizational relationships.
+- [ ] Review all materials for privacy and publication risks.
+
+## 6. Professional Development
+
+This case supports my continued development in:
+
+- Web-security observation and technical analysis.
+- Evidence preservation and documentation.
+- Responsible disclosure and issue reporting.
+- Stakeholder communication and coordination.
+- Risk assessment and uncertainty management.
+- Responsible technology and system evaluation.
+
+It also reinforces the importance of communicating technical concerns in a way that helps the appropriate people investigate while avoiding unsupported claims about individuals or organizations.
+
+## 7. Final Reflection
+
+The value of this investigation is the documented process of recognizing unexpected behavior, repeating observations, reporting the issue to relevant contacts, recording the reported outcome, and identifying the limits of the available evidence.
+
+The issue was recorded as resolved on October 6, 2026, but the exact root cause and remediation remain unconfirmed in this case study.
+
+**Key takeaway:** Good cybersecurity work requires reproducible observations, careful evidence management, responsible communication, and conclusions proportional to the available evidence.
+
+**Disclaimer:** This is an independent case study by Cullen E. Mathews. It is not an official Yale University, Yale School of Management, or Yale Entrepreneurial Society report.
