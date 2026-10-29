@@ -88,17 +88,6 @@ An unexpected redirect does not automatically establish phishing, malware delive
 
 For future web-security observations, I would use the following checklist:
 
-- [ ] Record the exact date, time, and time zone.
-- [ ] Preserve the original search query and result.
-- [ ] Capture the displayed destination and final destination.
-- [ ] Record the redirect chain where safely accessible.
-- [ ] Document browser, operating system, and test conditions.
-- [ ] Separate firsthand observations from statements made by others.
-- [ ] Maintain a dated communication and action log.
-- [ ] Identify evidence needed to confirm or reject each hypothesis.
-- [ ] Record reported resolution separately from verified remediation.
-- [ ] Verify participants' names, roles, and organizational relationships.
-- [ ] Review all materials for privacy and publication risks.
 
 ## 6. Professional Development
 
