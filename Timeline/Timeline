@@ -1,0 +1,117 @@
+# Investigation Timeline: Yale Redirect Issue
+
+**Project:** Yale Entrepreneurial Society (YES) Redirect Investigation  
+**Investigator:** Cullen E. Mathews  
+**Category:** Web Security Observation and Responsible Reporting  
+**Reported resolution date:** October 6, 2026  
+**Root cause:** Unconfirmed
+
+## Overview
+
+This timeline documents my observation and reporting of an unexpected redirect encountered while accessing the Yale Entrepreneurial Society (YES) website through Google Search.
+
+YES is a student-run organization at Yale University. Yale School of Management is included in this case study as an institutional contact context identified in my reporting process. The specific reporting relationships and responsibilities should be corroborated against the original correspondence.
+
+The search result appeared to identify the YES website, but following the link through Google's redirect confirmation flow led to an unrelated third-party domain, `1connectconsulting.com`.
+
+I repeated my observations over multiple days, reported the behavior to relevant contacts, and recorded October 6, 2026, as the resolution date.
+
+This timeline distinguishes firsthand observations from reported organizational actions. It does not establish a security breach, malicious intent, or a confirmed technical cause.
+
+## Timeline of Events
+
+### October 1, 2026 — Initial Observation
+
+I encountered unexpected navigation while attempting to access the Yale Entrepreneurial Society website through Google Search.
+
+Although the search result appeared to correspond to YES, following the link through Google's redirect confirmation flow led to `1connectconsulting.com`, an unrelated third-party domain.
+
+**Initial finding:** The displayed destination and resulting navigation appeared inconsistent.
+
+**Evidence to preserve:**
+- Screenshot of the original search result.
+- Exact search query and displayed destination.
+- Original link and resulting URL.
+- Date and time of observation.
+
+### October 2–5, 2026 — Repeated Observations
+
+I repeated my observations over multiple days to determine whether the unexpected navigation could be reproduced.
+
+The testing focused on the publicly accessible search result and its navigation behavior.
+
+The purpose was to document the observed behavior and provide a factual report, not to access restricted systems or assume a particular root cause.
+
+**Activities:**
+- Revisited the search result.
+- Observed the destination reached through the redirect flow.
+- Recorded the recurring behavior as described in my investigation.
+- Prepared to notify the relevant organizational contacts.
+
+### Reporting Period — Notification and Coordination
+
+I reported the observed behavior to representatives of the Yale Entrepreneurial Society (YES), a student-run organization at Yale University.
+
+The people and organizational contacts identified in my current records include:
+
+- **YES Co-Presidents:** Student-organization leadership reportedly notified.
+- **Yale School of Management:** Institutional contact context identified in the reporting process.
+- **Engineering / IT personnel:** Technical personnel identified in the reported coordination.
+- **Ariyan:** An individual identified in communications as associated with Engineering and possibly IT; the exact title and responsibility require confirmation.
+
+The reporting process involved communication and coordination concerning the unexpected redirect.
+
+The original correspondence should be consulted to verify the precise notification dates, reporting relationships, acknowledgments, and actions taken by each participant.
+
+This document does not assert that Yale School of Management owned the affected website, caused the redirect, or implemented the technical remediation.
+
+### October 6, 2026 — Reported Resolution
+
+I recorded the issue as resolved on October 6, 2026.
+
+This represents the reported resolution date in my current account of events. Unless supported by additional evidence, it should not be interpreted as independent verification of a particular technical fix.
+
+The available record does not establish whether the change occurred within a website configuration, a redirect service, search-result processing, or another component.
+
+## Participants and Systems
+
+| Participant or system | Documented or reported role |
+|---|---|
+| Cullen E. Mathews | Independent observer, investigator, reporter, and author |
+| Yale Entrepreneurial Society (YES) | Student-run organization whose website was associated with the observed redirect |
+| YES Co-Presidents | Organizational leadership reportedly notified |
+| Yale School of Management | Institutional contact context identified in the reporting process |
+| Engineering / IT personnel | Technical personnel identified in the reported coordination |
+| Ariyan | Individual associated in communications with Engineering and possibly IT; exact role unverified |
+| Google Search | Service through which the unexpected navigation was encountered |
+| `1connectconsulting.com` | Third-party destination observed during the redirect flow; relationship to the issue unconfirmed |
+
+Other Yale-related contacts, including Nicole McDonald or Dean Charles were notified. 
+## Current Assessment
+
+The available account supports documenting:
+
+1. An unexpected redirect encountered through Google Search.
+2. Repeated observations during October 1–5, 2026.
+3. Notification of YES representatives and reported coordination involving institutional and technical contacts.
+4. A reported resolution date of October 6, 2026.
+
+The technical root cause, responsible system, exact remediation, and individual responsibility remain unconfirmed.
+
+## Evidence to Preserve
+
+- Original search-result screenshots.
+- Exact search query and URLs.
+- Timestamps and browser details.
+- Available records of the redirect chain.
+- Relevant correspondence and acknowledgments.
+- Any technical explanation or resolution confirmation.
+- Before-and-after observations.
+
+Private emails, personal contact information, and nonpublic communications should be redacted or withheld unless publication is authorized.
+
+## Conclusion
+
+This timeline records an independent web-security observation and the subsequent reporting process. Its purpose is to demonstrate careful documentation, appropriate communication, and a distinction between observed behavior and unverified conclusions.
+
+**Disclaimer:** This is an independent case study by Cullen E. Mathews. It is not an official Yale University, Yale School of Management, or Yale Entrepreneurial Society report.
