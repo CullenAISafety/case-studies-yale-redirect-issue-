@@ -84,12 +84,10 @@ An unexpected redirect does not automatically establish phishing, malware delive
 
 **Application:** State the observed facts and identify unconfirmed explanations explicitly. Escalate conclusions only when supporting evidence becomes available.
 
-## 5. Improvements for Future Investigations
-
-For future web-security observations, I would use the following checklist:
 
 
-## 6. Professional Development
+
+## 5 Professional Development
 
 This case supports my continued development in:
 
@@ -102,7 +100,7 @@ This case supports my continued development in:
 
 It also reinforces the importance of communicating technical concerns in a way that helps the appropriate people investigate while avoiding unsupported claims about individuals or organizations.
 
-## 7. Final Reflection
+## 6. Final Reflection
 
 The value of this investigation is the documented process of recognizing unexpected behavior, repeating observations, reporting the issue to relevant contacts, recording the reported outcome, and identifying the limits of the available evidence.
 
@@ -110,4 +108,4 @@ The issue was recorded as resolved on October 6, 2026, but the exact root cause 
 
 **Key takeaway:** Good cybersecurity work requires reproducible observations, careful evidence management, responsible communication, and conclusions proportional to the available evidence.
 
-**Disclaimer:** This is an independent case study by Cullen E. Mathews. It is not an official Yale University, Yale School of Management, or Yale Entrepreneurial Society report.
+Disclaimer: This is an independent cybersecurity case study authred by Cullen E. Mathews documentiog the Yale Entrepreneurial Society (YES) redirect incident that I personally observed and reported. The incident occured between Oct 1-5 2026 and was resolved on October 6 2026. The incident occured and this report documents my observations, reporting activities, and the subsequent reported resolution. This is an independent repor, not an official publication of Yale University, Yale School of Management, or the Yale Entrepreneurial Society. This issue also does not back or hold any weight towards my Yale Application and or Fellowship. 
