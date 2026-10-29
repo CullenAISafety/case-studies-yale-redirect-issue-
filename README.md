@@ -76,7 +76,8 @@ Key lessons:
 - Resolution of a symptom does not independently prove the original cause.
 - Security reporting should be factual, proportionate, and respectful of all parties.
 9. Evidence and supporting materials
-Evidence Here and Here.
+  
+Evidence in Evidence Folder.
 
 
 
