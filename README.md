@@ -32,7 +32,7 @@ Person or organization	Role in the case
 
 Cullen E. Mathews	Independent observer, tester, documentation author, and reporter.
 Yale Entrepreneurial Society (YES) Co-Presidents	Organizational leadership notified about the observed issue.
-Yale School of Management Team	Team notified and involved in coordinating the report. 
+Yale School of Management Team	Team was notified but will not be involved and or documented in the case study as they are not responsible for YES's Redirect Issue. 
 Yale Engineering / IT	Technical team identified in the reported coordination process.
 Ariyan Patel 	Roles- Point Of Contact, YES CO-president.
 Google Search	AI Overview Search and navigation service through which the behavior was observed. Its involvement does not establish that Google caused the issue.
