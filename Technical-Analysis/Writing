@@ -24,6 +24,8 @@ The investigation concerned the publicly accessible navigation behavior associat
 
 No direct inspection of YES server logs, hosting configuration, DNS records, source code, or Google's internal systems is established by this case study.
 
+Yale School of Management or SOM was notified. However they were not responsbile for the incident and will not be featured in the case study.
+
 ## 3. Observed Behavior
 
 **Expected behavior:** Following a search result for the YES website should lead to the intended destination or a clearly explained, legitimate intermediary.
