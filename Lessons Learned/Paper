@@ -1,1 +1,179 @@
+# Lessons Learned
+## Yale Entrepreneurial Society (YES) – Google Search Redirect Issue
 
+**Case Study:** Independent Cybersecurity Observation and Reporting  
+**Incident Period:** October 1–6, 2026  
+**Subject:** Google Search Pathing and Redirect Behavior Affecting Yale Entrepreneurial Society's Web Presence  
+**Classification:** Independent Case Study – Publicly Observable Web Behavior
+
+---
+
+### 1. Executive Summary
+
+This document examines the lessons learned from an independently conducted cybersecurity observation involving Google Search results associated with the Yale Entrepreneurial Society (YES).
+
+Between October 1 and October 5, 2026, I observed a discrepancy involving the Google Search presentation of the Yale Entrepreneurial Society's web presence. Although the search result appeared to reference the YES website, following the Google redirect path resulted in an unrelated external destination, identified as 1connectconsulting.com.
+
+The behavior was monitored and documented before being reported to representatives of the Yale Entrepreneurial Society. The issue was subsequently observed to have been resolved on October 6, 2026.
+
+This experience provided an opportunity to examine the importance of web navigation integrity, search-result verification, responsible reporting, communication with stakeholders, and the distinction between an observable technical issue and a confirmed security incident.
+
+No conclusion was reached that the Yale Entrepreneurial Society's website, Google, or Yale University infrastructure had been compromised.
+
+### 2. Incident Recognition and Initial Observations
+
+One of the primary lessons was the importance of investigating discrepancies between a website's displayed identity and its actual destination.
+
+The initial observation involved:
+
+- A Google Search result associated with the Yale Entrepreneurial Society.
+- A displayed destination that appeared consistent with the organization's web presence.
+- A redirect path that led to an unrelated external domain.
+- Repeated observations between October 1 and October 5, 2026.
+- Resolution of the observed behavior on October 6, 2026.
+
+This demonstrated why cybersecurity investigations should not rely exclusively on the appearance of a search result or its displayed destination.
+
+A link should be evaluated based on its actual destination and redirect behavior.
+
+### 3. Lessons Learned
+
+**Lesson 1: Verify Before Drawing Conclusions**
+
+An unexpected redirect does not automatically establish malicious activity, website compromise, or unauthorized access.
+
+Future investigations should distinguish between:
+- Observable behavior.
+- Verified technical evidence.
+- Potential security implications.
+- Confirmed causes.
+
+This distinction is essential for maintaining credibility and avoiding unsupported conclusions.
+
+**Lesson 2: Document Findings as They Occur**
+
+Maintaining a timeline of observations made it possible to establish when the behavior was first noticed, how long it remained observable, and when it appeared to be corrected.
+
+Future documentation should include:
+- Dates and timestamps.
+- Original search-result references.
+- Displayed URLs.
+- Actual redirect destinations.
+- Screenshots and supporting evidence.
+- Follow-up observations.
+
+Consistent documentation provides a stronger foundation for technical analysis and responsible reporting.
+
+**Lesson 3: Identify the Appropriate Reporting Channel**
+
+An important takeaway was understanding that identifying a potential cybersecurity concern is only the first step. Knowing whom to contact and how to communicate the findings is equally important.
+
+Reporting to the appropriate organizational representatives allows the people closest to the affected service to evaluate the observation and determine whether further investigation is necessary.
+
+In future situations, I would prioritize identifying the appropriate technical contact or responsible organizational representative earlier in the investigation.
+
+**Lesson 4: Communicate Without Misrepresenting Responsibility**
+
+This case also reinforced the importance of correctly identifying organizational responsibilities.
+
+The Yale Entrepreneurial Society is a student-run organization. Yale School of Management was not established as the responsible party for the observed redirect behavior.
+
+Although SOM was notified, it was not treated as the responsible entity in the case study.
+
+Future reports should clearly distinguish between:
+- The organization whose web presence is affected.
+- Third-party services involved in the observed navigation path.
+- Individuals or departments notified.
+- Parties whose responsibility has not been established.
+
+**Lesson 5: Responsible Disclosure and Professional Conduct**
+
+The objective of documenting this issue was to bring an observable discrepancy to the attention of the relevant organization, not to exploit the behavior, interfere with services, or make unsupported allegations.
+
+The experience reinforced the importance of:
+- Responsible communication.
+- Respect for organizational boundaries.
+- Avoiding unauthorized testing.
+- Preserving evidence.
+- Providing stakeholders with factual observations.
+
+### 4. What I Would Do Differently
+
+If I encountered a similar situation again, I would take a more structured approach from the beginning.
+
+My improved response process would include:
+
+1. Capture screenshots and record the original search result.
+2. Record the displayed URL and actual destination.
+3. Document the complete observable redirect path.
+4. Repeat observations using appropriate, non-invasive verification methods.
+5. Identify the correct organizational reporting channel.
+6. Submit a concise technical report with supporting evidence.
+7. Request acknowledgment when appropriate.
+8. Monitor the publicly observable behavior for resolution.
+9. Document the final outcome without assuming the underlying cause.
+
+This approach would improve the efficiency, accuracy, and professionalism of future cybersecurity investigations.
+
+### 5. Application to Cybersecurity Research and Development
+
+This case study strengthened my interest in cybersecurity, web infrastructure, digital identity, and the reliability of online information systems.
+
+It also demonstrated how seemingly small discrepancies in web navigation can create questions involving:
+- Digital trust and organizational identity.
+- Search-result integrity.
+- URL validation and redirect handling.
+- Third-party service dependencies.
+- User awareness and phishing exposure.
+- Incident reporting and response coordination.
+
+These are areas that warrant continued study and practical development.
+
+The experience also reinforced my interest in combining Computer Science and Economics to examine how technology, institutional trust, and digital infrastructure interact.
+
+### 6. Professional Development
+
+As an independent cybersecurity researcher, I recognize that technical observation must be accompanied by responsible judgment, clear communication, and a willingness to learn.
+
+This experience helped me develop a more disciplined approach to:
+- Identifying anomalous web behavior.
+- Maintaining an incident timeline.
+- Separating evidence from assumptions.
+- Communicating with organizational stakeholders.
+- Understanding responsible reporting practices.
+- Evaluating the outcome of a reported issue.
+
+The most important takeaway is that cybersecurity is not simply about discovering potential problems. It is also about knowing how to document, communicate, and responsibly handle them.
+
+### 7. Conclusion
+
+The Yale Entrepreneurial Society Google Search redirect case study provided a practical learning experience in independent cybersecurity observation and reporting.
+
+The observed redirect behavior was documented, communicated to relevant representatives, and subsequently appeared to be resolved on October 6, 2026.
+
+Although the underlying technical cause was not independently established, the experience provided valuable lessons regarding web navigation integrity, responsible disclosure, evidence preservation, and organizational communication.
+
+Going forward, I intend to apply these lessons to future cybersecurity projects, technical research, and professional development.
+
+My objective is to continue building the technical and professional skills necessary to contribute responsibly to cybersecurity research and the protection of digital infrastructure.
+
+---
+
+### 8. Case Study Disclaimer
+
+This document represents an independent cybersecurity learning exercise based on publicly observable Google Search behavior.
+
+It is not an official Yale University, Yale School of Management, or Yale Entrepreneurial Society security assessment, investigation, or institutional report.
+
+The case study does not establish that any organization experienced a security breach, unauthorized access, or malicious compromise. The underlying cause of the observed redirect behavior was not independently confirmed.
+
+The Yale School of Management was notified but is not identified as responsible for the issue. The Yale Entrepreneurial Society was the relevant student-run organization whose web presence was the subject of the observation.
+
+The purpose of this paper is educational and professional: to document observations, identify lessons learned, and demonstrate responsible cybersecurity research practices.
+
+**Prepared by:**  
+Independent Cybersecurity Researcher  
+Cullen E. Mathews
+
+**Portfolio:**  
+https://github.com/CullenAISafety/Cybersecurity-Portfolio
